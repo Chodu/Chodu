@@ -1,3 +1,3 @@
-FooCoin (FOO)
+Chodu
 
 Blah, blah, blah.
